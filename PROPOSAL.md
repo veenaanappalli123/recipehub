@@ -164,4 +164,4 @@ The project will demonstrate the practical application of Next.js, server-side r
 
 ## 10. GitHub Repository
 
-**GitHub Repository:** To be added after creating the repository.
+**GitHub Repository:veenaanappalli123/recipehub.git
